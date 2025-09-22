@@ -1,7 +1,7 @@
 ---
 hero_image: images/codecraft.png
 duration: 2
-listed: true
+listed: false
 copyedit: false
 title: CodeCraft
 description: Design and code improvements to a 2D version of Minecraft.
