@@ -1,10 +1,4 @@
-
-# import the modules and variables needed
-import turtle
-import random
-#from variables import *
-from math import ceil
-from helper import *
+# Game variables that can be changed!
 
 # game background colour.
 BACKGROUNDCOLOUR = "white"
@@ -55,3 +49,12 @@ craftkeys = {BRICK: "r"}
 
 # game instructions that are displayed.
 instructions = ["Instructions:", "Use WASD to move"]
+
+# Import the game code
+import helper
+
+# Start the game when you press Rung.
+if __name__ == "__main__":
+    helper.run()
+
+
