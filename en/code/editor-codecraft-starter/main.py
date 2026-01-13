@@ -1,9 +1,9 @@
 # import the modules and variables needed
 import turtle
 import random
-from variables import *
+#from variables import *
 from math import ceil
-import helper
+from helper import *
 
 # Game variables that can be changed!
 
