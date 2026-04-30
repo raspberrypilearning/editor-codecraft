@@ -1,19 +1,21 @@
-## What you will make
+## Playing the game 
 
-In this project, you’ll design and code improvements to a 2D version of Minecraft.
++ Use the WASD keys to move your player around the world, which is full of different resources (dirt, grass and water).
 
+    ![screenshot](images/craft-move.png)
 
-Click on the **Run** button to run the program.  
-  
++ You can press the spacebar to collect resources. Pick up a few of each type of resource, and you'll see them added to your inventory.
 
---- collapse ---
----
-title: Offline Project materials
----
+    ![screenshot](images/craft-pickup.png)
 
-## Project resources
++ Press the number keys (1 to 3) to place a resource on the map. For example, press 3 to place some water on the map. This will only work if you have some water in your inventory.
 
-* [.zip file containing all project resources](https://rpf.io/p/en/codecraft-go)
+    ![screenshot](images/craft-place-water.png)
 
++ You can craft an item by pressing the key displayed in the menu. Crafting means combining items you already have in your inventory to create new ones. Try pressing the 'r' key to craft a new brick (as long as you have 2 dirt and 1 water in your inventory).
 
---- /collapse ---
+    ![screenshot](images/craft-craft-brick.png)
+
++ You can then press they '4' key to place your crafted bricks.
+
+    ![screenshot](images/craft-place-brick.png)

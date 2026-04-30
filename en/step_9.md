@@ -1,11 +1,7 @@
 --- challenge ---
 
-## Challenge: Crafting glass from sand
+## Challenge: Create more resources
 
-Can you create a new glass resource, that can be crafted from sand? You can follow the steps above to help you.
-
-![screenshot](images/craft-glass.png)
-
-The project already contains a `glass.gif` image that you can use, or you can create your own image if you prefer.
+Can you add more resources and crafting rules to your game?
 
 --- /challenge ---

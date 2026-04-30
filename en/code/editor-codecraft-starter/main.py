@@ -1,3 +1,10 @@
+# import the modules and variables needed
+import turtle
+import random
+#from variables import *
+from math import ceil
+from helper import *
+
 # Game variables that can be changed!
 
 # game background colour.
